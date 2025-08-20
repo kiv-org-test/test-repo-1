@@ -1,7 +1,7 @@
 {
     "name": "docker_example_git",
-    "description": "",
-    "version": "1.4.0",
+    "description": "123-test",
+    "version": "1.5.0",
     "manifest_version": 0,
     "native": {
         "type": "generic",
